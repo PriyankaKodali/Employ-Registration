@@ -1,0 +1,31 @@
+.myheading
+{
+    margin-top: 25px;
+    margin-left: 21px;
+    text-align: center;
+}
+
+  .hobbies-container{
+    padding: 10px;
+    border: 1pt solid #b7b7b7;
+    float: left;
+    border-radius: 7px;
+}
+
+.mybutton
+{
+    align-content: center;
+}
+
+.mytext{
+       resize:vertical;
+}
+
+.myaddress{
+    resize:none;
+}
+
+.gender{
+    padding-right: 141px;
+    text-align: left;
+}
